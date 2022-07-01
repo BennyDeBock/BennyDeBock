@@ -1,6 +1,6 @@
 # Hello there
 
-My name is Benny. I'm a young developer from Belgium, who's interested in all ranges of development. Outside of that, I also enjoy playing 🏓 Table Tennis in competition spirit and I have a big interest in Japan.
+My name is Benny. I'm a young developer from Belgium, who's interested in all ranges of development. Outside of that, I also enjoy playing Table Tennis 🏓 in competition spirit and I have a big interest in Japan 🇯🇵.
 
 ## Projects
 ### Current Projects
