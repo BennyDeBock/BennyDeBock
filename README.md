@@ -1,6 +1,6 @@
 # Hello there
 
-My name is Benny. I'm a young developer from Belgium, who's interested in all ranges of development. Outside of that, I also enjoy playing Table Tennis 🏓 in competition spirit and I have a big interest in Japan 🇯🇵.
+My name is Benny. I'm a young developer from Belgium, who's interested in all ranges of development. Outside of that, I also enjoy playing Table Tennis 🏓 in competitive spirit and I have a big interest in Japan 🇯🇵.
 
 ## Projects
 ### Current Projects
@@ -10,7 +10,6 @@ To keep my skills up-to-date and to improve, I'm always working on something. Th
 - Making a portfolio website with blog capabilities | Figma / Vue.js
 - Recreating the website of my local table tennis club | Vue.js
 - Rewriting a table tennis score application as a PWA | C#/Blazor
-- Translating the [Vapor Documentation](https://github.com/vapor/docs) to Dutch | Markdown
 - Creating [Swiftcord documentation](https://github.com/SketchMaster2001/Swiftcord-Docs) with steps and examples | MkDocs/Swift
 - Rewriting a personal Travel Diary project | Vapor
 
@@ -20,6 +19,8 @@ This section contains some past projects that I have finished.
 
 - Table Tennis club website | HTML5, CCS3
 - Webscraper for table tennis application | C#
+- Translating the [Vapor Documentation](https://github.com/vapor/docs) to Dutch | Markdown
+
 
 ## Statistics
 Here are some statistics about how active I am and which languages I use the most.
