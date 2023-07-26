@@ -7,15 +7,8 @@ My name is Benny. I'm a young developer from Belgium, who's interested in all ra
 
 To keep my skills up-to-date and to improve, I'm always working on something. These are some projects I'm working on now.
 
-- Making a portfolio website with blog capabilities | HUGO
+- Making a portfolio website with blog capabilities | Nuxt
 - Recreating the website of my local table tennis club | Vue3 + Vapor
-
-### On Hold
-
-These project are put on hold because other things took priority in life.  
-
-- Rewriting a table tennis score application as a PWA | C#/Blazor
-- Rewriting a personal Travel Diary project | Vapor + Angular
 
 ### Past Projects
 
